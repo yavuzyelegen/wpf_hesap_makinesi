@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\myavu\OneDrive\Belgeler\GitHub\wpf_hesap_makinesi\MyProject\obj\Debug\net6.0-windows\
+C:\Users\myavu\OneDrive\Belgeler\GitHub\wpf_hesap_makinesi\MyProject\obj\Release\net6.0-windows\
 MyProject
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\myavu\OneDrive\Belgeler\GitHub\wpf_hesap_makinesi\MyProject\App.xaml
 11407045341
 
@@ -16,5 +16,5 @@ C:\Users\myavu\OneDrive\Belgeler\GitHub\wpf_hesap_makinesi\MyProject\App.xaml
 194183970531
 MainWindow.xaml;
 
-False
+True
 

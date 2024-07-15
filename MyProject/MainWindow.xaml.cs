@@ -25,9 +25,11 @@ namespace MyProject
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+
+        private void rakam1Btn_Click(object sender, RoutedEventArgs e)
         {
 
+            ekranLabel.Content = "1";
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\myavu\\Desktop\\wpf_hesap_makinesi\\MyProject\\MyProject\\MyProject.csproj": {}
+    "C:\\Users\\myavu\\OneDrive\\Belgeler\\GitHub\\wpf_hesap_makinesi\\MyProject\\MyProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\myavu\\Desktop\\wpf_hesap_makinesi\\MyProject\\MyProject\\MyProject.csproj": {
+    "C:\\Users\\myavu\\OneDrive\\Belgeler\\GitHub\\wpf_hesap_makinesi\\MyProject\\MyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\myavu\\Desktop\\wpf_hesap_makinesi\\MyProject\\MyProject\\MyProject.csproj",
+        "projectUniqueName": "C:\\Users\\myavu\\OneDrive\\Belgeler\\GitHub\\wpf_hesap_makinesi\\MyProject\\MyProject.csproj",
         "projectName": "MyProject",
-        "projectPath": "C:\\Users\\myavu\\Desktop\\wpf_hesap_makinesi\\MyProject\\MyProject\\MyProject.csproj",
+        "projectPath": "C:\\Users\\myavu\\OneDrive\\Belgeler\\GitHub\\wpf_hesap_makinesi\\MyProject\\MyProject.csproj",
         "packagesPath": "C:\\Users\\myavu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\myavu\\Desktop\\wpf_hesap_makinesi\\MyProject\\MyProject\\obj\\",
+        "outputPath": "C:\\Users\\myavu\\OneDrive\\Belgeler\\GitHub\\wpf_hesap_makinesi\\MyProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\myavu\\AppData\\Roaming\\NuGet\\NuGet.Config",
